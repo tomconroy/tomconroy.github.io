@@ -15,4 +15,3 @@ url: "http://tom.conroy.com.au"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
